@@ -3,7 +3,6 @@
 ## 📌 Project Overview  
 This project implements a **Linear Regression model** to predict house prices based on given features such as area, number of bedrooms, and other housing attributes. The goal is to build a **simple yet effective regression model** to understand the relationship between housing features and price, and make accurate predictions.  
 
----
 
 ## 🚀 Features  
 - Preprocessing of housing dataset (handling missing values, feature scaling, etc.)  
@@ -12,7 +11,6 @@ This project implements a **Linear Regression model** to predict house prices ba
 - Visualization of predicted vs actual prices  
 - Easy-to-understand workflow for beginners in **Machine Learning**  
 
----
 
 ## 📂 Dataset  
 The dataset contains housing attributes such as:  
@@ -24,7 +22,6 @@ The dataset contains housing attributes such as:
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
----
 
 ## 🛠 Tech Stack  
 - **Python 3**  
@@ -32,7 +29,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 - **Matplotlib, Seaborn** → Data Visualization  
 - **Scikit-Learn** → Machine Learning (Linear Regression, Evaluation Metrics)  
 
----
 
 ## ⚙️ Installation & Setup  
 Clone this repository and install dependencies:  
